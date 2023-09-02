@@ -1,2 +1,3 @@
-lets try to oush code to github
+lets try to push code to github
 pulling to remote_copy
+Git Pull
