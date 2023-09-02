@@ -3,4 +3,5 @@ pulling to remote_copy
 Git Pull
 test for pull
 Residing in Banglore.
+To check stash history
 
