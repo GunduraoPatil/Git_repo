@@ -2,9 +2,7 @@ lets try to push code to github
 pulling to remote_copy
 Git Pull
 test for pull
-<<<<<<< HEAD
 Residing in Banglore
 To check stash history
 Residing in Banglore.
-This line is to check git fetch.
-
+This line is to check git fetch
