@@ -1,2 +1,1 @@
-This line is to check git merge.
-this is to check git webhook triggering
+This line is to check git webhook
